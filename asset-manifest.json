@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/WEBAI/static/css/main.bf388bf5.css",
-    "main.js": "/WEBAI/static/js/main.37fdcb5f.js",
+    "main.js": "/WEBAI/static/js/main.af8c6b6b.js",
     "static/js/592.77751a5b.chunk.js": "/WEBAI/static/js/592.77751a5b.chunk.js",
     "index.html": "/WEBAI/index.html",
     "main.bf388bf5.css.map": "/WEBAI/static/css/main.bf388bf5.css.map",
-    "main.37fdcb5f.js.map": "/WEBAI/static/js/main.37fdcb5f.js.map",
+    "main.af8c6b6b.js.map": "/WEBAI/static/js/main.af8c6b6b.js.map",
     "592.77751a5b.chunk.js.map": "/WEBAI/static/js/592.77751a5b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bf388bf5.css",
-    "static/js/main.37fdcb5f.js"
+    "static/js/main.af8c6b6b.js"
   ]
 }
